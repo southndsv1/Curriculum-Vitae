@@ -8,12 +8,28 @@ A modern, responsive personal website showcasing computational science and AI ex
 
 ---
 
+## ⚠️ Getting a 404 Error?
+
+**The website isn't live yet!** You need to enable GitHub Pages first.
+
+### 🚀 Quick Fix (2 minutes):
+
+1. **Go to:** Repository **Settings** → **Pages**
+2. **Under Source:** Select your branch (`claude/build-researcher-resume-site...` or `main`)
+3. **Select folder:** `/ (root)`
+4. **Click "Save"**
+5. **Wait 2-3 minutes** and refresh
+
+**📖 Detailed step-by-step guide:** [ENABLE_GITHUB_PAGES.md](ENABLE_GITHUB_PAGES.md) ← Click here for screenshots and troubleshooting!
+
+---
+
 ## 🌐 View Live Website
 
-**👉 [Click here to view the live resume website](https://your-username.github.io/)**
+**👉 [Click here to view the live resume website](https://your-username.github.io/Curriculum-Vitae/)**
 
-> **Note:** Replace `your-username` with your actual GitHub username after deployment.
-> See [DEPLOYMENT.md](DEPLOYMENT.md) for complete setup instructions.
+> **Note:** Replace `your-username` with your actual GitHub username.
+> After enabling GitHub Pages (see above), your site will be live!
 
 ---
 
