@@ -1,0 +1,24 @@
+# CNAME Configuration for Custom Domain
+#
+# Instructions:
+# 1. Rename this file to "CNAME" (without .example extension)
+# 2. Replace the domain below with your custom domain
+# 3. Configure DNS settings at your domain registrar:
+#    - Add a CNAME record pointing to: yourusername.github.io
+#    OR
+#    - Add A records pointing to GitHub's IPs:
+#      185.199.108.153
+#      185.199.109.153
+#      185.199.110.153
+#      185.199.111.153
+# 4. Commit and push the CNAME file to your repository
+# 5. Wait for DNS propagation (up to 48 hours)
+# 6. Enable HTTPS in GitHub Pages settings after DNS is active
+#
+# Examples:
+# www.yourname.com
+# yourname.com
+# resume.yourname.com
+
+# Uncomment and replace with your domain:
+# www.shuvodeepde.com
