@@ -6,6 +6,17 @@ A modern, responsive personal website showcasing computational science and AI ex
 ![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+---
+
+## 🌐 View Live Website
+
+**👉 [Click here to view the live resume website](https://your-username.github.io/)**
+
+> **Note:** Replace `your-username` with your actual GitHub username after deployment.
+> See [DEPLOYMENT.md](DEPLOYMENT.md) for complete setup instructions.
+
+---
+
 ## 🌟 Features
 
 ### Design & UI
@@ -38,6 +49,41 @@ A modern, responsive personal website showcasing computational science and AI ex
 - **Performance**: Lazy loading, debounced scroll events, and optimized assets
 
 ## 🚀 Quick Start
+
+> **📘 For complete deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)**
+
+### Three Simple Steps to Go Live:
+
+1. **Clone and Customize**
+   ```bash
+   git clone https://github.com/yourusername/Curriculum-Vitae.git
+   cd Curriculum-Vitae
+   ```
+   - Update `GITHUB_USERNAME` in `js/main.js`
+   - Add your CV PDF to `assets/` folder
+   - Verify personal information in `index.html`
+
+2. **Rename Repository (for main site)**
+   - For `https://your-username.github.io/`
+   - Rename repo to: `your-username.github.io`
+   - See [DEPLOYMENT.md](DEPLOYMENT.md) for details
+
+3. **Enable GitHub Pages**
+   - Go to repository **Settings** → **Pages**
+   - Source: **main** branch, **/ (root)** folder
+   - Click **Save**
+   - Visit your site in 2-3 minutes!
+
+### Alternative: Quick Local Preview
+
+View the site on your computer before deploying:
+
+```bash
+python3 -m http.server 8000
+# Open: http://localhost:8000
+```
+
+---
 
 ### Option 1: GitHub Pages (Recommended)
 
